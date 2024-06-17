@@ -1,4 +1,4 @@
-module github.com/burakorkmez/react-go-tutorial
+module github.com/setouchi-h/go-tutorial
 
 go 1.22.4
 
